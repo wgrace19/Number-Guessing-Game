@@ -1,0 +1,8 @@
+/* This is the style sheet for the number guessing game. This program was written by Wyatt Grace for Microsoft's edx course:
+Building Interactive Prototypes using Javascript 2019 */
+body {
+    text-align: center;
+    color: blue;
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
